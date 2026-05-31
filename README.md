@@ -2,7 +2,7 @@
 
 A Laravel-based museum CMS practice project inspired by modern digital infrastructure used by museums and cultural institutions.
 
-This project was built as hands-on preparation for Laravel CMS, API, and digital asset management workflows.
+A Laravel-powered museum CMS featuring exhibition management, admin tooling, and API-driven content architecture inspired by modern cultural institution platforms.
 
 ---
 
