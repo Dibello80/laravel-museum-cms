@@ -52,8 +52,43 @@ Returns JSON data for API/mobile app integration.
 
 ## Screenshots
 
-(Add screenshots here later)
+### Public Exhibitions Page
 
+Displays publicly published exhibitions rendered through Blade templates and Tailwind CSS.
+
+![Public Exhibitions](screenshots/public-exhibitions.png)
+
+---
+
+### Admin Dashboard
+
+Administrative CMS interface for managing exhibition content.
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
+### Edit Exhibition
+
+Editable exhibition management form with validation-ready Laravel workflow.
+
+![Edit Exhibition](screenshots/edit-exhibition.png)
+
+---
+
+### Create Exhibition
+
+CMS form for creating new exhibitions and publishing content dynamically.
+
+![Create Exhibition](screenshots/create-exhibition.png)
+
+---
+
+### JSON API Endpoint
+
+RESTful JSON endpoint serving exhibition data for external integrations and mobile applications.
+
+![JSON API](screenshots/json-api.png)
 ---
 
 ## Purpose
