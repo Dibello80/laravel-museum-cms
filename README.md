@@ -56,7 +56,7 @@ Returns JSON data for API/mobile app integration.
 
 Displays publicly published exhibitions rendered through Blade templates and Tailwind CSS.
 
-![Public Exhibitions](screenshots/public-exhibitions.png)
+![Public Exhibitions](public/screenshots/public-exhibitions.png)
 
 ---
 
@@ -64,7 +64,7 @@ Displays publicly published exhibitions rendered through Blade templates and Tai
 
 Administrative CMS interface for managing exhibition content.
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](public/screenshots/admin-dashboard.png)
 
 ---
 
@@ -72,7 +72,7 @@ Administrative CMS interface for managing exhibition content.
 
 Editable exhibition management form with validation-ready Laravel workflow.
 
-![Edit Exhibition](screenshots/edit-exhibition.png)
+![Edit Exhibition](public/screenshots/edit-exhibition.png)
 
 ---
 
@@ -80,7 +80,7 @@ Editable exhibition management form with validation-ready Laravel workflow.
 
 CMS form for creating new exhibitions and publishing content dynamically.
 
-![Create Exhibition](screenshots/create-exhibition.png)
+![Create Exhibition](public/screenshots/create-exhibition.png)
 
 ---
 
