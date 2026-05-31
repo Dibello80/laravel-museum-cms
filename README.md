@@ -88,7 +88,7 @@ CMS form for creating new exhibitions and publishing content dynamically.
 
 RESTful JSON endpoint serving exhibition data for external integrations and mobile applications.
 
-![JSON API](screenshots/json-api.png)
+![JSON API](public/screenshots/json-api.png)
 ---
 
 ## Purpose
